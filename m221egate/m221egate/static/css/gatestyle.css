@@ -1,0 +1,9 @@
+#status_block {
+  margin: 0 auto 0.5em auto;
+  padding: 15px 10px 15px 55px;
+  background: #FF6600;
+  border: 1px solid #FF6600;
+  text-align: center;
+  font-size: 120%;
+  font-weight: bolder;
+}
